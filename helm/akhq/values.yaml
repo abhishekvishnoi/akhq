@@ -124,7 +124,7 @@ ingress:
   paths:
     - /
   hosts:
-    - akhq-kafka.apps.cluster-8vgxl.8vgxl.sandbox1091.opentlc.com
+    - akhq-kafka.apps.ocpnonprodcl02.goindigo.in
   tls: []
   #  - secretName: akhq-tls
   #    hosts:
